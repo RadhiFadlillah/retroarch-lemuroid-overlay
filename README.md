@@ -6,7 +6,9 @@
 - No 7-zip support.
 - No custom shader.
 
-Thanks to those issues, I come back to RetroArch. However, I still prefer the overlay that used by Lemuroid than the overlays that currently available in RetroArch. So, I decided to clone it for RetroArch.
+Thanks to those issues, I come back to RetroArch. However, I really like the overlay that used by Lemuroid, so I decided to clone it for RetroArch.
+
+This overlay is designed for 20:9 screen, which apparently is the most commonly used aspect ratio for Android devices.
 
 ## Available Platforms
 
