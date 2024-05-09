@@ -8,7 +8,7 @@
 
 Thanks to those issues, I come back to RetroArch. However, I really like the overlay that used by Lemuroid, so I decided to clone it for RetroArch.
 
-This overlay is designed for 20:9 screen, which apparently is the most commonly used aspect ratio for Android devices.
+This overlay is designed for 20:9 screen, which is what my phone use, and apparently is the [most popular](https://gs.statcounter.com/screen-resolution-stats/mobile/worldwide) aspect ratio right now.
 
 ## Available Platforms
 
@@ -40,8 +40,6 @@ Set "Overlay Opacity" to 1.0, since it's already a bit transparent.
 
 ## Screenshots
 
-### Landscape
-
 <details>
 	<summary><b>PSX with analog</b></summary><br/>
 	<img src="/doc/psx-analog-landscape.jpg" alt="Screenshot of PSX with analog in landscape mode"/>
@@ -67,31 +65,9 @@ Set "Overlay Opacity" to 1.0, since it's already a bit transparent.
 	<img src="/doc/gbc-landscape.jpg" alt="Screenshot of GBC in landscape mode"/>
 </details>
 
-### Portrait
-
 <details>
-	<summary><b>PSX with analog</b></summary><br/>
-	<img src="/doc/psx-analog-portrait.jpg" alt="Screenshot of PSX with analog in portrait mode"/>
-</details>
-
-<details>
-	<summary><b>PSX without analog</b></summary><br/>
-	<img src="/doc/psx-portrait.jpg" alt="Screenshot of PSX in portrait mode"/>
-</details>
-
-<details>
-	<summary><b>SNES</b></summary><br/>
-	<img src="/doc/snes-portrait.jpg" alt="Screenshot of SNES in portrait mode"/>
-</details>
-
-<details>
-	<summary><b>GBA</b></summary><br/>
-	<img src="/doc/gba-portrait.jpg" alt="Screenshot of GBA in portrait mode"/>
-</details>
-
-<details>
-	<summary><b>GBC</b></summary><br/>
-	<img src="/doc/gbc-portrait.jpg" alt="Screenshot of GBC in portrait mode"/>
+	<summary><b>All in portrait mode</b></summary><br/>
+	<img src="/doc/all-portrait.jpg" alt="Screenshot of all platform in portrait mode"/>
 </details>
 
 ## Acknowledgements
