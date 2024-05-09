@@ -77,4 +77,6 @@ Set "Overlay Opacity" to 1.0, since it's already a bit transparent.
 
 ## License
 
-Since both Lemuroid and RetroArch use GPLv3, I think it just follows that here we use GPLv3 as well.
+Since Lemuroid use GPLv3, at first I think it just follows that we use GPLv3 as well here.
+
+However, since this overlay is only recreated from Lemuroid's screenshot without ever accessing its code, I believe we can use a more permissible license. So, I decided to license it to CC BY 4.0 since it's what used by RetroArch's overlay [repository](https://github.com/libretro/common-overlays).
